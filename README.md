@@ -9,5 +9,5 @@ The business request for this project was created by the user himself. By decidi
 
 |Medium Blog|
 |-|
-|https://medium.com/@sachintukumar1609/data-analyst-portfolio-project-exercise-analysis-761bdfb8069e
+https://medium.com/@sachintukumar1609/data-analyst-portfolio-project-exercise-analysis-761bdfb8069e
 
