@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio-Project-Exercise-Analysis
 
-The business request for this project was created by the user himself. By deciding on a business to analyze (exercise data) the following user story was derived.
+The business request for this project was created by the user himself. By deciding on a business to analyze (exercise data) the following user story was derived
 
 
 ![Pic](https://user-images.githubusercontent.com/103982094/224316009-12c65911-92c0-47f8-b10b-093ff5845a7d.png)
